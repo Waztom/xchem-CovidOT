@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://access.cheminventory.net/search.php
-HostUrl=https://chemicalinventory-generatedfiles.s3.eu-west-1.amazonaws.com/inventoryexport-19229.xlsx?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIGTYPUHXTR3P4NDQ%2F20200813%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20200813T113628Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=222cde8e30e8c8b257daa9078bc0e55cd668a590e018c647e001679cf3188376
